@@ -8,7 +8,7 @@ Clean and initial template to use NodeJS with Typescript
 
 ## How use
 
-- Clone this repository and run `npm install` or `yarn install`
+- Clone this repository and run `npm install` or `yarn install` in project folder
 - Write your code in `src/index.ts`
 - Run `npm run dev` to start Typescript compiler
   - nodemon will be started after compile success
