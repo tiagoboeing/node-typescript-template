@@ -1,5 +1,7 @@
 # NodeJS + Typescript
 
+![js-and-typescript](https://i.snipboard.io/ACTe1D.jpg)
+
 ## What is
 
 Clean and initial template to use NodeJS with Typescript
