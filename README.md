@@ -1,6 +1,6 @@
 # NodeJS + Typescript
 
-![js-and-typescript](https://i.snipboard.io/ACTe1D.jpg)
+![nodejs-and-typescript](https://i.snipboard.io/93yCRK.jpg)
 
 ## What is
 
